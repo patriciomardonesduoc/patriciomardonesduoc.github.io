@@ -31,7 +31,7 @@ $(document).ready(function () {
                 var lon = position.coords.longitude;
                 console.log("posición latitud" + lat + "posicion Longitud" + lon);
                 $.get({
-                    url: 'api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=589ab7f659717c61c042d6e5f4a91419',
+                    url: 'https://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=589ab7f659717c61c042d6e5f4a91419',
                     success : function(clima){
                         console.log(clima.weather);
                         $.each(clima, function(index, value){
