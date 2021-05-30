@@ -1,0 +1,17 @@
+    {
+        "noticias":[
+        {
+            "idnot": 1,
+            "titulo": "Noticia de prueba",
+            "autor":"Juan Perez",
+            "data-noticia": "Esta es una noticia de prueba."
+        },
+        {
+            "idnot": 2,
+            "titulo": "Trabajo de programacion web",
+            "autor":"Profesor",
+            "data-noticia": "Hagamos una web con js."
+        }
+    ]
+    }
+
