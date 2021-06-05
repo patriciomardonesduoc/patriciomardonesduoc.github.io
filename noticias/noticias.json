@@ -4,25 +4,33 @@
           "idnot":1,
           "titulo":"Noticia de prueba",
           "autor":"Juan Perez",
-          "datanoticia":"Esta es una noticia de prueba."
+          "datanoticia":"Esta es una noticia de prueba.",
+          "fecha":"2021/06/01",
+          "starred": false
        },
        {
           "idnot":2,
           "titulo":"Trabajo de programacion web",
           "autor":"Profesor",
-          "datanoticia":"Hagamos una web con js."
+          "datanoticia":"Hagamos una web con js.",
+          "fecha":"2021/06/02",
+          "starred": false
        },
        {
           "idnot":3,
           "titulo":"Noticia Alumnos",
           "autor":"Profesor",
-          "datanoticia":"Hagamos una web con js."
+          "datanoticia":"Hagamos una web con js.",
+          "fecha":"2021/06/03",
+          "starred": false
        },
        {
           "idnot":4,
           "titulo":"Trabajo de programacion web 2",
           "autor":"Profesor",
-          "datanoticia":"Hagamos una web con jquery"
+          "datanoticia":"Hagamos una web con jquery",
+          "fecha":"2021/06/04",
+          "starred": false
        }
     ]
  }
